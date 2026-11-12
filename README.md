@@ -117,4 +117,4 @@
 
 📒 회의록·결정 로그·할 일은 노션 **15평회의 운영본부**에 기록합니다 (규칙: [`CLAUDE.md`](CLAUDE.md)).
 
-📄 사전조사 보고서는 [`docs/research.md`](docs/research.md), 릴스 대본 10편(v2)은 [`docs/reels_scripts.md`](docs/reels_scripts.md), 계정 닉네임 후보는 [`docs/account_names.md`](docs/account_names.md)에 있습니다.
+📄 프로필 이미지·상표 메모는 [`docs/branding_ops.md`](docs/branding_ops.md), 사전조사 보고서는 [`docs/research.md`](docs/research.md), 릴스 대본 10편(v2)은 [`docs/reels_scripts.md`](docs/reels_scripts.md), 계정 닉네임 후보는 [`docs/account_names.md`](docs/account_names.md)에 있습니다.
